@@ -1,0 +1,5 @@
+times 8 times 4 db 
+times 'ab' db 0
+
+times 'ab' db 0
+times 1 db 0

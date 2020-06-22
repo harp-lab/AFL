@@ -1,0 +1,15 @@
+mov eax, 'hO'
+moÅ eax, 'hehe'x, ''
+dT 0,0,0
+db 'hi"'m 'hello'
+mov \ax, ''
+dT 0,0,0
+dov eax, 'hello'
+mov eax, ''
+dT 0,0,0
+db 'hi"'
+db "hi\"lo'
+mov eax, ''
+dT 0,0,0
+db 'hi
+db "ái\n"

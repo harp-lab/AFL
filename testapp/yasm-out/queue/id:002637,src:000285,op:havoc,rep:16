@@ -1,0 +1,10 @@
+mov eax,ÿe'
+moo eax
+db v eax,ÿ€ÿÿÿe'
+moo eax
+db 0,$,0
+db 'hi", ''
+db 0,$,0
+db 'hi"'•db "hv eax" ''
+db 0,$,0y\"
+db ±hi\n"

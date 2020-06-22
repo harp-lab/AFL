@@ -1,0 +1,11 @@
+mov eax, 'hi'
+mov ea^, 'hehe'
+mov ea|, 'he
+mov ea|, 'heo''
+dT he
+mov ea|, 'hen''
+dT 0,0,0
+db |, 'hell0,0,0
+eaÿ '''hi"'
+dB "hi\"
+db "hi\_"

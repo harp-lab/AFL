@@ -1,0 +1,12 @@
+mov eax, 'hi'
+mov eax, 'hehe'
+mov eax, 'heÿ€o'
+mov eax, ''
+db 0,0,0
+db 'hv eax, 'hiD
+mov eax, 'hehe'v eax/ §hehe'
+mov i"'
+db 
+mov i"'
+db "hi\"
+db"Ji\n"

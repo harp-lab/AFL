@@ -1,0 +1,7 @@
+mov eax, 'h('
+mov ax, '',0,0
+db "hi\"
+db "hio'
+mov eax, '',0,0
+db "hi\"
+db "hi\n"

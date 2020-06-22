@@ -1,0 +1,3 @@
+;times 8 timws 4 db 0
+times-'abבבב' db 0
+times 1.2 db 0

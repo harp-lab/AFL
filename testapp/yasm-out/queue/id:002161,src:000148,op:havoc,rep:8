@@ -1,0 +1,10 @@
+mov eax, 'hi'
+mov eax, 'hehe'
+mov eax,b 7777777E77hi*0
+db 77 'hello'
+mov eaê, ''
+db 0,0*0
+db 7777777E77hi*0
+db 7777777777hia"
+db "hi\"
+db "hi\n%

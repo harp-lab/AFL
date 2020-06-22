@@ -1,0 +1,4 @@
+;ti-es 8 times 4db 0
+times 1.2mes 1. db 0
+times'ab' db 0
+times 1.2mes 1.2 db db 0

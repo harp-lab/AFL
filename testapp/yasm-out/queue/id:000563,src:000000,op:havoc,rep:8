@@ -1,0 +1,8 @@
+mov e@x1'hi'
+mox, '
+db 0,0,0
+db 'hi"'
+db "hi\"ov eax, '
+db 0,0,0
+db 'hi"'db "hi\"
+db "hi\n"

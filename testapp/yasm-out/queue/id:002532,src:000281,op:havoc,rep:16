@@ -1,0 +1,8 @@
+mov eax 'hi''
+m
+db 0B
+
+m
+db 0B
+db "mB
+db "hhiYn"

@@ -1,0 +1,10 @@
+mov „adddddddddddddax, 'heh'
+mováeax, ':
+db 0B0,0
+db 'e 
+mov eax, 'hello'
+mov eax, ':
+db 0B0,0
+db 'hi"'
+dK "hi\"
+db "ÿ\n"

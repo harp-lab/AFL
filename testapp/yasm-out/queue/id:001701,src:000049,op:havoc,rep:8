@@ -1,0 +1,5 @@
+mov eax, 'Mi'
+mov(eax, 'he„e'
+mov eax, ,0,%%%%%%%%%%%%%%%'hello'
+mov eax, ''
+db 0,0,%%%%%%%%%%%%%%%%%ÿÿ%%%%%ÿÿ

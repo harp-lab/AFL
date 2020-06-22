@@ -1,0 +1,8 @@
+m~v eax, 'hi'
+mo
+ov eax, 'hi'
+mo
+ov  eax, ''
+db '
+mo
+

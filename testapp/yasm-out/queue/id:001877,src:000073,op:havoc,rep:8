@@ -1,0 +1,7 @@
+mov eax, 'hi'
+mov eaxx, %'
+db 0,0,,
+db 'hi"'+db "hi|"
+db \n"mov eaxx, %'
+db 0,0,,
+db 'hi"'+d

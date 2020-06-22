@@ -1,0 +1,6 @@
+mov rax, 'Ji'
+movllo	
+mov eax,P''
+„by0,0,0@db ' i"'
+db "hi\2
+dP "hñ\n"

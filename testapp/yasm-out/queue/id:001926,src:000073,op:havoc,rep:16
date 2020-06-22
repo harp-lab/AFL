@@ -1,0 +1,11 @@
+mov eaŠ, 'h}'
+m}v eax, 'hzhe'
+mov eax, 'he`lo'
+mov eax,ov eax %h
+db 0H0,0
+db  '
+mop eax,ov eax%h
+@b JH@0
+db 'hi>'
+db "hi\"
+db "hi\n"

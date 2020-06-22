@@ -1,0 +1,6 @@
+mov Bax, 'hi'
+movueax, 'hehax, ''
+db(0,0,0
+db 'hi"'7777777777777o'
+mov eax,"hi\"
+db "hi\n"

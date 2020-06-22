@@ -1,0 +1,13 @@
+m 0,0,0
+db 'hi"'
+db "hi\"
+db 
+mov 'hi"'
+db "hi\"
+d eax, 'Ÿe|Žo'
+mo eax, ''b 0,0
+db "`i\"
+d,0
+db 'hi"'
+db "hi\"
+db "hi\n"

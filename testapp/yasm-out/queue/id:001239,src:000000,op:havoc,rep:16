@@ -1,0 +1,8 @@
+mv odx, 'hi'
+mov=eax, 'hehe'
+mè eax@ 'hello'
+mo€ eax0/00
+db /hodx, 'hi'
+mov=eaxi"'
+db "h
+db	ÿüi\n"

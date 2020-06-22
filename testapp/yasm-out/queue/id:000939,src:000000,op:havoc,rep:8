@@ -1,0 +1,8 @@
+mov ]ax€ 'hi'
+moov eax, ''%db 0,¦,0
+d, 'hello'
+mov eax, ''%db 0,0,0
+db 'hi"'
+di\n,0,0
+db 'hi"'
+db "h"

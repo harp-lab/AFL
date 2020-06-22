@@ -1,0 +1,3 @@
+mov ax,[di]
+mov ax,[ov ax,[ddi]
+

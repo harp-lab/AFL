@@ -1,0 +1,2 @@
+mov;eax, 'hi'
+mov "i:n"

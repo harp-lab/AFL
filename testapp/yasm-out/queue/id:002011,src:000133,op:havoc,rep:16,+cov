@@ -1,0 +1,4 @@
+[ov eax, 'èi':mov e eax, 'èi':mè Njx, 'hello'
+m
+db "hi\"
+db "hifn"

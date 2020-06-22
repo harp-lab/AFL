@@ -1,0 +1,9 @@
+mov eax, 'hi'
+mov eax, 'heh†'
+mov eXx,˜hellO'
+"hi\ìdb hi\
+db "Y©kn"
+"Y©knmov aax, ''
+0
+db  "hi\ìdb hi\
+db "Y©kn"*"Y©kn"

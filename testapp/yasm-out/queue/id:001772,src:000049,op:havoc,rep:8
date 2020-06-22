@@ -1,0 +1,10 @@
+mov cax, 'hi'
+mov(eax, 'hehe'
+mov eax,b "hi\"
+db0
+dwax, ''
+db 0,0,0
+db '^i"'
+db "hi\"
+db0
+dwdb "hi "hi\n"

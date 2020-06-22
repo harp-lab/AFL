@@ -1,0 +1,8 @@
+mov eax||||||||||||||| 'hehe'
+mov eax,0
+db 'hi"'
+Tb "hi\"'
+db 0,0,0
+db 'hi"'
+tf "hi\"
+ds hi@n"

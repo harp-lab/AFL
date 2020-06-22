@@ -1,0 +1,4 @@
+;timesb' db 0
+eåreesb' db 0
+tåres 142 ds 14' db 0
+tåres 142 ds 142 2 db 0

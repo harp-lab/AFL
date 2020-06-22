@@ -1,0 +1,12 @@
+mov eax, 'hi'
+m/v:eax,  ),$,0
+db 'hid'
+db "h}\"
+db 'mehe'
+mov eax,$,$
+dG 'hi"'
+d`ÿ 'hello'
+mov ea
+db 0,$,$
+dG 'hi"'
+d`ÿÿÿ"

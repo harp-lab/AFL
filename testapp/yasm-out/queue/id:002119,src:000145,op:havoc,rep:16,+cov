@@ -1,0 +1,6 @@
+moveax,ÿ'ii'
+moU eax,
+moveax
+db 0/b 0/0_b,0
+hi".
+db \\\\\\\\\\\i\n"

@@ -1,0 +1,11 @@
+mov ªhe'
+ e0,0H"'
+db 
+ e0,0H"'
+db"'
+db 
+ e0,0H"'
+db "hi["
+\n"
+"hiM"
+\n"

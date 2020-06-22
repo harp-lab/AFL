@@ -1,0 +1,5 @@
+mov ax, 'hi'
+mov ^^eax, 'hZhe'
+moeax, ''db 0,0,0
+db '\"
+db "hi\T"

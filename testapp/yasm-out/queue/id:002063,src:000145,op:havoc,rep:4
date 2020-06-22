@@ -1,0 +1,10 @@
+mov eax, 'hi'
+mov eax, 'hehe'
+mov eax, 'hel++lo'
+mov eax,0
+‡b eax, ''
+db 0/0 ''
+db 0/0,0
+‡b eax, ''
+db 0/0,0
+‡b '\n"

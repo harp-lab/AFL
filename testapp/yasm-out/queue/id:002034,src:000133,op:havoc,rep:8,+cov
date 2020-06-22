@@ -1,0 +1,5 @@
+sêi':mllo'
+mov eax/ ''
+db 0,0,0*d| 'hi"'
+db "hi\"
+db "hi\n"

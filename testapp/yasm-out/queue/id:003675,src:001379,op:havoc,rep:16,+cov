@@ -1,0 +1,4 @@
+;times dbimes 4 db ?
+'mes 'ab' db0
+times 4 db ?
+'times ~o,

@@ -1,0 +1,8 @@
+mov eax, '`xxxx""""""""ÿ""""""""""""""""""xxxxxx,––––,0(0
+db 'hi"'
+db "hi–
+ov eax, '`xxxx""""""""ÿ"""" 0,0,v eaV, ''
+db 0,00
+db:'hi"'
+db "hi\"
+db "hi\n"

@@ -1,0 +1,15 @@
+ 0,$,0
+db hi0
+db , ''
+db 0,$ax,x, '
+dhi"'
+db "mov~
+db?"'
+db "mov~
+db 0,v z?x, ''
+db 0,$ax,x, '
+db 0,$ax ''
+db 0,$, eax, êA
+dx, '#
+db 0
+db   

@@ -1,0 +1,5 @@
+mov eaxb 0,0,0
+db'h€"'ÿdb "mov e?x,(' ''
+[M 0:0,0xb 0,0,0
+db'h€"'ÿdb "mov e?x,
+dn"

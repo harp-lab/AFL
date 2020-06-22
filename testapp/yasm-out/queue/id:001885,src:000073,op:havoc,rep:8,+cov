@@ -1,0 +1,8 @@
+mov eax, 'hi'
+mov e0000000000+00000000hi"'
+db "hi\"
+db%dhi\n"
+mo0,0
+db 'hi"'
+db "hi\"
+db%dhi\n"

@@ -1,0 +1,8 @@
+', ''
+v eax, ''
+dT "'
+ eax, @'
+dT "'
+db "hi\"
+dT "'
+Jb"

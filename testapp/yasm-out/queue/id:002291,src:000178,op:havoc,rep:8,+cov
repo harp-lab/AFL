@@ -1,0 +1,15 @@
+m'hello'
+mov eax, ''
+db 0U0,'
+ov eax, 'h['
+mov eax, hehe'
+mov max, 'hello'
+mov eax, ''
+db 080,'
+db 080,?
+db 'hi"'
+db "hi\"
+db ?
+db 'hi"'
+tb "hi\"
+db "hi\n"

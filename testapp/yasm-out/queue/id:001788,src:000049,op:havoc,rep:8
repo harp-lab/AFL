@@ -1,0 +1,10 @@
+moeaxr 'Hi'
+mov(eax, 'heh%'
+mllo'
+mov eax, -'
+db 0,0,0
+db 'hi"'
+db "hi\"
+db-'
+db 0,0,0
+db  "hi\n"

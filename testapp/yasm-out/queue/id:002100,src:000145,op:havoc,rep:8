@@ -1,0 +1,7 @@
+oKKKKKKKKFKv eax, 'hello'
+mov eax! ''
+db F/0,0
+d> 'hi"'
+db <F/0,0
+d> '"hi\"
+db "hi\n"

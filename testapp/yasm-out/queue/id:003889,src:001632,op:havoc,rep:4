@@ -1,0 +1,6 @@
+mov eax, 'hi'
+mov(eax: 'hehe'
+mov eax, 'hello'
+mov eax, (eax: 'hehe'
+mov eax, 'hell~ 0,o'
+db "hi\n"

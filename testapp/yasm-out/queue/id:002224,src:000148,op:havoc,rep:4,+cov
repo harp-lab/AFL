@@ -1,0 +1,6 @@
+mov eax, 'hi'
+mov eax, 'hehe'lo'
+mov eax, ''
+db 0,0*888888888ÿÿÿ888888888888888ÿÿÿ8888888i"'
+db "hi\"
+db "hi\n"

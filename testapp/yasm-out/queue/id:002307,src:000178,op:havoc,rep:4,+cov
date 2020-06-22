@@ -1,0 +1,11 @@
+mov eax, 'hi'
+mov eax, 'hjhe'
+mov eax, 'heUlo'
+mov eax, ''
+db 00,?
+db 'hi"'
+db "hi\"
+db "hi\nlo'
+mov eax, ''
+db 00,?
+db 'hi""

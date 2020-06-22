@@ -1,0 +1,8 @@
+mov """""""x, ''
+db 0/0'lehe'
+mov eax 'hel""x, ''
+db 0/0'
+db 0/0,0
+db Bhi"'
+db "hi\"
+Nb "hi\n"

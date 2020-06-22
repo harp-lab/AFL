@@ -1,0 +1,7 @@
+movello'õmov eax, ''
+db 0+0_0
+dov eax, 'hello'õmov eax, ''
+db 0+0_0
+db 'hi"'
+db "hi\"
+db "hi\n"

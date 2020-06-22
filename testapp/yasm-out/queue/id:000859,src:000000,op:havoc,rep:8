@@ -1,0 +1,10 @@
+mov elx, 'db ÿÿÿ'db "hi\"
+hi'
+ax, ''
+db 0,1,0x, ''
+db 'hi'
+ax, ''
+db 0,1,0x, ''
+d0,0,0
+db ÿÿÿ'db "hi\"
+db "hi\n"

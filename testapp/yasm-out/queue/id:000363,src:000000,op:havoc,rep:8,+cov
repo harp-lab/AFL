@@ -1,0 +1,7 @@
+mov eax+ 'hi'
+mov emov eax, 'hi"'
+db "hi\"
+db ax, 'heheF
+mov eax, 'hi"'
+db "hi\"
+db "hi\

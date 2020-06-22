@@ -1,0 +1,10 @@
+mov eax, 'hi'
+mov eax, 'hehÿÿÿ
+db 'hi"'
+db("hi\"
+db x, ''
+db 0,0,0
+
+db("hi\"
+db x, ''
+db 0i\n"

@@ -1,0 +1,10 @@
+mov eax, 'hi'
+movi"'
+db "hi\"
+ eииииииииииииииииииииииax, 'hehe'
+mov eax, 'hello'
+mov eax, ''
+db 0,0,0
+db 'hi"'
+db "hi\"
+db "hi\n"

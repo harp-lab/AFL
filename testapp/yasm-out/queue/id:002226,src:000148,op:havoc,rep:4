@@ -1,0 +1,11 @@
+Zov eax, 'hi'
+mov eax, 'hehe'
+mov eax, 'hello'
+mov eax,3'''
+db 0,0*p
+db 'hi"'
+db "hi\"'
+db 0,0*p
+db 'hi"'
+db "hi\"
+db "hi\n"

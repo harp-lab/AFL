@@ -1,0 +1,9 @@
+mo"hi\n"*0
+db 'v eax, 'hiŸ
+movÿax, 'hehe'
+m'
+mov eax, ''
+db 0,0hi"&õdb "hi\"
+db "hi\n"*0
+db 'hi?&õdb "hi\"
+db "hr\n"

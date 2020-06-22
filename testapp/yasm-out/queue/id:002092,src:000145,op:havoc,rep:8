@@ -1,0 +1,7 @@
+mov eax, ax, .\ehe'
+mov eax, ;hello'
+mOv'hi'
+mov eax, .\ehe'
+mov eax, ;hello'
+mOv eax, H'hi\"
+db "hi\n"

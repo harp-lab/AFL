@@ -1,0 +1,8 @@
+mov eah,þ&hi 'heÿÿÿ
+mov eHx, ''
+db "hi\d       ÿÿ€
+mov eax, ''
+db 0+0  %'heÿÿÿ
+mov eax, ''
+db 0+0             
+dbþ!èi\n"

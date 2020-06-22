@@ -1,0 +1,5 @@
+;times 8 times 4 db 0
+tim0
+times 1.+ db b 0
+times 1.+1.+ db b 0
+times 1.+ db 0

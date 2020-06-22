@@ -1,0 +1,7 @@
+mov uax, 'hi'
+mmv eax, 'hehe'
+mov eax$&êdb`0,000_db 'hi"'
+db "hi\%
+db`0,000_db 'hi"'
+db "hi\%
+db "hO\n"

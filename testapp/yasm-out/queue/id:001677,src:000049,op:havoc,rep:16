@@ -1,0 +1,9 @@
+mov eax, 'hi'
+mov(eax,
+db 0,0,0 'ÿƒ"'Ídb " eax 'hehe'
+mo'hello'
+mov eaxB ''
+db 0,0,0" eax, ''
+db 0,3,°}db 'hi"'
+db "hi\"
+db "hi\n"

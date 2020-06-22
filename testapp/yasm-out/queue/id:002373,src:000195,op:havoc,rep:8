@@ -1,0 +1,11 @@
+m           o] e 
+db 0,0,0
+db axax
+db .hi\"
+db "db Ø—'
+mov eah, 'hello'
+mov eax, ''
+db 0,0,0
+db Ø—–Ý'
+db .hi\"
+db "hi\n"

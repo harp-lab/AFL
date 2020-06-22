@@ -1,0 +1,15 @@
+m"hi n"
+oW eax, ''
+db 0,0,0Vx, 'hi'
+mov eax, Ghehe'
+mov eax, 'hellooÿ
+mo  ea, '''hi'
+m
+b 0,0,0
+d'
+m
+b 0,0,0
+db Bhi"'
+dbb 'hi"'
+db""hO\"
+db "hi n"

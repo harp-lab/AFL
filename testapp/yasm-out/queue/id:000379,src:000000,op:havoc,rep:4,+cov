@@ -1,0 +1,6 @@
+mov Uax, 'hi'
+mov eax, 'hehe'
+mov eax, 'helb "ax, 'hi'
+mov eax, 'hehe'
+mov eahi\"
+db "hi\n"

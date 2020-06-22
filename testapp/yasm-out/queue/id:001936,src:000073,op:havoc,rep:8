@@ -1,0 +1,12 @@
+mov e
+mov eax, Qv e
+mov eax, !hehe'
+mov!hehe'
+mov eax, 'helax, 'hi'
+mov eax, 'hehe'
+mov eaxƒ e
+mov eax, 'hehe'
+modb 0,0,0
+db =hi"'
+db "hi\"
+db "hi\nÿ

@@ -1,0 +1,9 @@
+mov eax, 'hi'
+mov eax, 'hehe' eax, 'hello'
+modb "hi\'
+db"
+db "h
+db 'hi"'
+db "hi\'
+db"
+db "hi\¿"

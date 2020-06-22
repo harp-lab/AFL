@@ -1,0 +1,6 @@
+mov eax< 'hi'
+mov eax, 'hehe'
+mvvvvvvvvvvvov eax, 'hello'
+mov eax, 'hehe'
+mvvvvvvvvvvvov ev eax, ''
+db db hiln"

@@ -1,0 +1,8 @@
+movµeax, 'hÅ'
+mov eax, ''
+db 0,$,0
+db 'hi"'
+db "hi eax, ''
+db 0,$,0
+db 'hi"'
+

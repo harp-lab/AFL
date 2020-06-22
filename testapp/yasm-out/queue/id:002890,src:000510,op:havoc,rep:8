@@ -1,0 +1,16 @@
+mov eax, 'h('Ymov e~ov b 0,ax, 'Zehe '',0,0
+db 'hi"'
+db 'hi"'
+db "0
+d "0
+db 'hi"'
+db hi\"
+d'
+mov eax, 'hello'
+mov eax, '',0,0
+db 'hi"'
+db "hi\"
+db "'hi"'
+db hi\"
+d'
+mov eax, 'helhi\n"~ov b 0,

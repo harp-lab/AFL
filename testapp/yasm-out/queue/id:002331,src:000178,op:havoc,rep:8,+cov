@@ -1,0 +1,8 @@
+mov eax, 'ax, 'hello'
+db>'hi"'
+d'
+db 0,0,?
+db ~~~~~~~~~~~~ÿ~~~'hi"!
+db "hb 0,0,?
+db ~~~~~i\"
+db "hi\n"

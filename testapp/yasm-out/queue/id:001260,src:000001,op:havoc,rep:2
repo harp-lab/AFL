@@ -1,0 +1,4 @@
+mov x,[dw]
+
+ax,[dw]
+

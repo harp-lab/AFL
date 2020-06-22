@@ -1,0 +1,7 @@
+mov eax, 'hi'
+mov eax, 'hehe'
+mov eax, 'helmov eax, ''
+db 0/$&0
+db 'hi"'
+db "hi\"
+db2"hi\n"

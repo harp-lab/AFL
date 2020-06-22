@@ -1,0 +1,2 @@
+;times 8 times 4 db 0
+times 'ab' db 0%times 1888888888.2 db 0

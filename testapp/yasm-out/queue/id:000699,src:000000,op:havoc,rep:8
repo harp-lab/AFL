@@ -1,0 +1,14 @@
+mov eax, 'hi'ex, 'v eax, 'hexlo'
+mox, 'hexlo'
+mov eax, ''
+dhv eax, ''
+dhehe'
+movx, ''
+db 0,0,0
+db 'hi"'
+dhi\" eax, 'hexlo3
+mov eax, ''
+db 0,0,0
+db 'hi"'
+dhi\"
+db "hi\n"

@@ -1,0 +1,9 @@
+mov eax, ''
+m
+db 0ddd`ddd 'hi"'
+db "hi\"
+dbb "hi\"
+db  ''
+m
+db 0ddd`ddd 'hi"'
+db "hi\""há\n"

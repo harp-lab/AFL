@@ -1,0 +1,5 @@
+mov eax, 'hi'
+mov eax, 'hehe'--------------J--mov ''''''''''''''''''-eax, ''
+db 0O0,0
+$b 'hi"'db "hi\"
+db "hi\Ï"

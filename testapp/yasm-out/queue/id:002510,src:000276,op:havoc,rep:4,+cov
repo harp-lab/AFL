@@ -1,0 +1,7 @@
+mov eax, 'hi'
+mÌv eax, 'hehe'
+mov eax, 'hello'
+mov eax, ''
+db 0+0,0
+db "222222b "2222222222222222222222222222222hi\"
+db "hi\n"

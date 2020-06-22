@@ -1,0 +1,7 @@
+mov eax, 'hi'
+mov eax, ;hehèm0,0ov eax, 'hello'
+mov eax,(''
+db 0,0,0
+hi'
+mov eax,'hel"
+db)"hi\n"

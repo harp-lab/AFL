@@ -1,0 +1,5 @@
+;times 0
+times 'ab' db 0
+ti_es 1.2 d8 times 4 dbssssssssssssssssssssssssss 0
+times 'ab' db 0
+ti_es 1.2 db 0

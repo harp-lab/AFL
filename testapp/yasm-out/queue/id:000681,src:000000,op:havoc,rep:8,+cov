@@ -1,0 +1,4 @@
+'
+mov eax, ''
+db 0,dbx, ''
+db 0,db "hi\n"

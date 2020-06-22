@@ -1,0 +1,9 @@
+mov eax, 'l'
+d^ 0.0,0
+
+d "hidZ 'hi"0,0)0
+db 0dd.0
+dbi 0dd.0
+dbidZ 'h 'hl"'
+d "hi\"
+db "i\n"

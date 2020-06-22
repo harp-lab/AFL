@@ -1,0 +1,11 @@
+mov eax, 'hi'
+mov eax, 'hLhe'
+mov eax, 'heH
+dT 0,0,0
+d, 'H
+dov eax, 'H
+dT 0,0,0
+d, 'heH
+dT 0,0,0
+d, 'H
+dov eax, 'db "hi\Z"

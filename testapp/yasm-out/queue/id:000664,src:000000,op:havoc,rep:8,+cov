@@ -1,0 +1,4 @@
+mo eax, ÿÿÿe& 0,0,0
+db 'hi"'
+db "hi\"
+dd "hi\n

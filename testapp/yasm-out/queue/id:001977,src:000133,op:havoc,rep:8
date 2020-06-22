@@ -1,0 +1,11 @@
+mov eax, 'hi':mov e]x, 'hell\'
+mov eax, ''
+do'
+moı ex, ''
+do'
+mov eaxå ''
+db 0,0do'
+mov eax, ''
+db 0'hi"'
+db 6hi\"
+db "hi\n"

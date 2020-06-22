@@ -1,0 +1,8 @@
+mov eax, 'hd'
+mnv eax
+ 'hehe'
+mov-eax, ×ehe'
+mov-eax, ×××××××'hello' 0,0,0
+Æb 'hi"'
+Yb "hi\"
+db "hi\n"

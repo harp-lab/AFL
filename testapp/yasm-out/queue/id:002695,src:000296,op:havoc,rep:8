@@ -1,0 +1,12 @@
+mov eÊÊÊ, 'hi'
+movov eax, 'hehd'
+mo,0
+dT 'hi"'
+db "hi\"
+db "hi\b 00
+dT 'hi"'
+db i\"
+db "Å0:0
+dT 'hi"'
+db i\"
+db "hi\n"

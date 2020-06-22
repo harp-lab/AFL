@@ -1,0 +1,7 @@
+mov eax, 'hi'
+mè(eae,5'hehe'
+mov eax,++++++++++++++++++''
+db 0,0,0
+db 'hi"'
+db "hi\"
+db "hi\n"

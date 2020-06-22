@@ -1,0 +1,5 @@
+mov eaxÿÿi8
+mov eax, 'hov eAx, eax, 'helmo'
+mov e=&G8
+db ?
+db "hi\n"

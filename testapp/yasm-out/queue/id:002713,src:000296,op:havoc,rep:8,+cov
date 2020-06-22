@@ -1,0 +1,6 @@
+mov eax,1*hhe'
+mov eax, 'hello'
+mov eax, 'J
+db 0,0,0
+dT 'hi"'
+dbó"hi\"Åb "hi\n"

@@ -1,0 +1,10 @@
+mov eaxb "Åmov eax,(' '
+[b 0:0,0
+db,' '
+[b 0:0,0
+db,y' '
+[b 0:0,0
+(' '
+[b 0:0,0
+db'hi"'ˇdn "7i\"
+db "hi|n"

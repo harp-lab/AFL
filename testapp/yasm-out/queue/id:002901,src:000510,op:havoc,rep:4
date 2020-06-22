@@ -1,0 +1,6 @@
+mo‹ ea~ov b 0,mov eax, 'hehe'
+mov------'hello'
+mov eax, '',0,0
+db 'hi"H
+db "hi\"
+db "hi\n"

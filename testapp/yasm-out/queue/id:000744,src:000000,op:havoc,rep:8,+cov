@@ -1,0 +1,6 @@
+mov eax, ;hi'
+mov eax, 'hehe'db""hix, 'hehe'db""hic"
+d, ''
+db 0b''hi"'
+db "hi\"
+db "hi\n"

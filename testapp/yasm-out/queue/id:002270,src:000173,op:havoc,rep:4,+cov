@@ -1,0 +1,4 @@
+mov-eax, 'hi'
+mov eaX
+db "hi\"
+db "hi\n"

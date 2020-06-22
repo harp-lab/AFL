@@ -1,0 +1,8 @@
+mov eax, 'Òi'
+mov eax,$'Lehe'
+mè eax, 'hello&ûmovx, 'Òi'
+mov eax,$'Lehe'
+mè  eax, ''db 0+0,0
+db 'hi"'
+db "hi\"
+db "hi\"

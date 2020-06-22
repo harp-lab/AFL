@@ -1,0 +1,4 @@
+at, %'
+d 0mov e„x 'hi"'
+db "hi\"
+db "hi\n"

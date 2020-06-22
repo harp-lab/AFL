@@ -1,0 +1,12 @@
+mov eax, ÿÿdb 0,0,0
+db Ø—–Ý'
+db "hi\"
+db lo'
+mov eax, ''
+db 0,0,0
+do Ø—–Ý'
+db "hi\"
+db "ai\n''
+db 0,0,0
+do Ø—–Ý'
+db "h"

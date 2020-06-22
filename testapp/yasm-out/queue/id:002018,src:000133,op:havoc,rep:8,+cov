@@ -1,0 +1,9 @@
+mov eax" 'hi':mov eax, 'hehe'
+movllê'
+mov eax,i"'
+d\"
+db  Zax,$'rellhe'
+mov eax,$'hellê'
+mov eax,i"'
+d\"
+db "hi\n"

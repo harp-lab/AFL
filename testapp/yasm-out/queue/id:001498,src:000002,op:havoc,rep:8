@@ -1,0 +1,10 @@
+;times 0
+ti 40
+times 'ab' db 0
+times 1.2 @b 0
+times 'a
+timb 0
+ti8  0
+ti 4 db 0
+times 'db' db 0
+ti^es 1.2 db 3

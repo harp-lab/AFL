@@ -1,0 +1,6 @@
+mov eax, 'hi'êlov Sehe'
+mov eax, 'h{llo'
+mov Zax, ''
+db 0,0,0
+db 'hi"'
+db "hd\" db "hi\n"

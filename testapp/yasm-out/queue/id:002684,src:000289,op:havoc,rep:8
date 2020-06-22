@@ -1,0 +1,17 @@
+mo, ''
+db 0,0H0
+v eax, 'hi'
+mov eax, 'helo'
+mov eax, ''
+db 0,0H0
+dbåe'
+mov eax, 'hello'
+mov eax, '0
+db 0,0H0
+db 'hi"'
+db 7 ''
+db 0,0H0
+"hi\'hi"'
+db 7 ''
+db 0,0"
+db #hi\n"

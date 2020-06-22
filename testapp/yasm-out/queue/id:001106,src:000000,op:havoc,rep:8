@@ -1,0 +1,13 @@
+m, ''
+db 0,0,
+mov e, ''
+db 0,0,0
+dbax, 'hv eax, 'hehe'
+ÿÿv "ax, ov eax, ''
+db 0,0,0
+db 'hi, ''
+db 0,0,0
+ds 'hi"'
+db "hÿ"'
+db "hi\"
+db "hi\n"

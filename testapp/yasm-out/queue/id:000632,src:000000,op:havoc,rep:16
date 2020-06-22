@@ -1,0 +1,3 @@
+mov '
+mov eax, 'h"
+db "hi\W!ÿ

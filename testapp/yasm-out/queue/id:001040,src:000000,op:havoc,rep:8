@@ -1,0 +1,10 @@
+mov eax, 'hi'
+mov eax, 'hehe'
+max, ''
+db '
+db 0,0lo'mov eax, ''
+db '
+db 0,hi"'
+db :hi\"
+db "hdb 0,0,0
+|i\n"

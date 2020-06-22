@@ -1,0 +1,12 @@
+meax, ov eax, 'hi'
+mov eax 0O0,0
+db 'hi"'
+Pb "hi\"
+db "^i, 'hehe'
+mov ''*db 0O0,0
+d eax, 'hello'
+mov eax,;'
+db 0O0,0
+db 'hi"'
+Pb "hi\"
+db "hi\n"

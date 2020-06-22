@@ -1,0 +1,6 @@
+mov eax, 'hi'
+mov eax,#'hehe'
+mov eax, 'hello'
+mov eax, ''
+db 0,0,0
+db 22222222222222222 "hi\n"

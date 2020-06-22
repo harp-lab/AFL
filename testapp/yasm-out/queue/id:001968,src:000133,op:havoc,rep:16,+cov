@@ -1,0 +1,9 @@
+mov zax, 0,0.0
+db 'hi"'
+d1 "hi\"
+db "h 'hi':mohe^Vo'
+mov ex, ''
+db 0,0.0
+db 'hi"'
+d1 "hi\"
+db "hi\~!

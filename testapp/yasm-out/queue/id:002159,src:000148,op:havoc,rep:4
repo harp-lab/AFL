@@ -1,0 +1,5 @@
+mov eaxx, ~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~hello'
+mov eax, 'ÿÿÿ 0,0*0
+db 'hi"'
+db "hi\"
+db "hi\n"

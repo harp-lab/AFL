@@ -1,0 +1,15 @@
+mov eax, 'hi'
+mè eax, 'hehe
+mov eax
+db "mov eax, ''
+db 0,0H0
+db 'h
+mov eax, ''
+db 0,0H0
+db H0
+db 'h
+db 'h
+db "mov ea
+db 0,0H0
+db 'h
+db hi\n"

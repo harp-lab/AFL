@@ -1,0 +1,9 @@
+mov eax, 'hi'
+mov eax, 'hex, ''
+db 0,0,?
+db 'hi"'
+db "hhe'
+mov eax, 'hello'
+mov eax, ''
+db 0,0,?
+db 'ai"'db db 'hi"' "hi\n"

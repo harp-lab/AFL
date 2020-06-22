@@ -1,0 +1,11 @@
+mov eax, 'hi'
+mov eax,     '0,0,0
+db 'hi"(
+db "hi\"
+ov eax, ''
+db 0,0,db 'hi"(
+db "hi\"
+
+
+
+mov eax,"

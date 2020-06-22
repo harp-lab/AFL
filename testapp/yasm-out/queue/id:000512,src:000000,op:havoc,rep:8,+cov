@@ -1,0 +1,6 @@
+mov eax, 'hi'
+mop eax,  ÿÿlo'
+mo~ eax,-''db 0,0,0
+db Chi&'
+db "hi\"
+db "hi\n"

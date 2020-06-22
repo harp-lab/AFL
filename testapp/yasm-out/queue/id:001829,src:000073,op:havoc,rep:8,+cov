@@ -1,0 +1,8 @@
+mov0eax, 'hi'
+mov eax, 'hene'
+mov eax, 'helax, %'
+db 0,0%'çdb 0,0,0
+db öhi"'
+dB "hax, 'helax, %'
+db 0,i\†
+db "hi\n"

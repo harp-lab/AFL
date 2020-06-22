@@ -1,0 +1,6 @@
+mXvlo'
+mov Vlx, ''
+db 0,$,'çc
+mov eax, 'hello'
+mov VPx, ''
+db 0,$,'çcb 0,$"',"hi\n"

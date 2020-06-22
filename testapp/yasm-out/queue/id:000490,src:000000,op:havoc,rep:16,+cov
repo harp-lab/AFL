@@ -1,0 +1,4 @@
+ov eax, 'hid
+mov eax'#mov eax 'ÿdÿÿÿ,0
+db "[i\"
+db "hi\

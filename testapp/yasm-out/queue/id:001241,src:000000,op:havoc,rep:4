@@ -1,0 +1,9 @@
+mov eax, 'hi'
+mov eax, 'hehe'
+mov eax, 'he&&&&&&&&&&&&&&&&&½½½½ 0,0,0
+db o'
+mov eax, ''
+db 0,0,0
+db 'hi"'
+sb "hi\"
+db "hi\n"

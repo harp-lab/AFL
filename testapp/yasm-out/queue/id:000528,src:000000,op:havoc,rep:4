@@ -1,0 +1,3 @@
+moveax, 'ov'
+db "hi\"
+db "hi\n"

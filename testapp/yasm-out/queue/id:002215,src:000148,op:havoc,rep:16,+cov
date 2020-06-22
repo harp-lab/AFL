@@ -1,0 +1,7 @@
+mov eax,  '_ehe'
+mov Zax, 'gello'
+9o‘ eEx, ''
+db 0,7/4
+db 'hi"'
+db "Ei\"
+db "hd\n"

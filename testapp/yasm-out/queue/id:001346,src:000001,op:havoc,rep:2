@@ -1,0 +1,3 @@
+mov ax,[^i]
+mov ax,[^i]
+

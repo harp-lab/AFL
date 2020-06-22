@@ -1,0 +1,17 @@
+mov eax, 'hi'
+mov eFx, 'hehe'
+mov eax, 'hello'
+mov ,0
+db 'hi"'
+db''
+db 0,0,0
+db 'hi"'
+d "hi\"
+db "hi\n"
+eax, ''
+db 0,0,0
+d
+mov ,0
+db 'hi"'
+db''
+dbn"

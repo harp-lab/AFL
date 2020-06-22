@@ -1,0 +1,4 @@
+mov
+db 0,0b "hi\"dmov
+db 0,0b "hi\"db v
+db 0,0b "hi\"db"hi\b "hi\n 

@@ -1,0 +1,10 @@
+mov eax, 'hi'
+mov ea['
+mov Lax, 'hello'
+mov eax, ', 'hehe'
+mov Lax, 'hello'
+mov eax, ''
+dT 0,0,0
+db hi"'
+db "hi\"
+db "hi\n"

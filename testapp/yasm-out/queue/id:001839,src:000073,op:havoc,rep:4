@@ -1,0 +1,6 @@
+mov------------- eax, 'hi'
+mov max, 'hehe'
+mov eax 0,0,0
+db 'hi"'
+db "h}\"
+db "hi\n"

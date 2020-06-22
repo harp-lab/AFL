@@ -1,0 +1,6 @@
+;ti db 0
+times 'ab' db ?
+timeme db 0
+times 'ab' db ?
+timem db ?
+times 1.2 db 0

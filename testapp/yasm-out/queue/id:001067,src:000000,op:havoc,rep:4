@@ -1,0 +1,7 @@
+mol eax, 'hi'
+mov eax, 'hehe'
+mov e^^C^^^^^^^^^^^^^^^^^^^A
+db 0,0,0
+db 'hi"'
+db "hi\"
+db "hi\n"

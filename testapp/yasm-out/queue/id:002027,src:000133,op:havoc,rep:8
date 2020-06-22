@@ -1,0 +1,12 @@
+mov eax, 'hi':movÿax, 'hehmov eax, ''
+do'
+do'
+mov eax, ''
+'
+di\"
+db "hi ''
+do'
+do'
+mov ax, ''
+'
+\n"

@@ -1,0 +1,10 @@
+                          he'
+mov Zax, 'he'he               ‹dW'
+mo{4eax,                ‹bW'
+mo|4eax, ''
+db 0A$,0      ‹dW'
+mo|4eax, ''
+db 0A@,0
+db 'Wi"'
+db"hi\"
+db "hi\n"

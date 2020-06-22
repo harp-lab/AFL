@@ -1,0 +1,11 @@
+ärv eax, 'hiEEEEEEEEEEEEEElo4
+mov e0+0*0
+d“ 'Ei"*0
+d“ 'Ei"'
+db "hi\"
+db "hEEEElo4
+mov e0+0*0
+d“ 'Ei"'
+
+d“ 'Ei"*0
+diin"

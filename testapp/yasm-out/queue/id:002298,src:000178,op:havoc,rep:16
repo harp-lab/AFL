@@ -1,0 +1,10 @@
+moä eax, mov eaxË'(
+db 0,0,?
+ ''
+db  ,0,?
+db 0,0,?
+db ,?
+ ''
+db 0,0,?
+db 0,eb "i\"
+db "há\n"

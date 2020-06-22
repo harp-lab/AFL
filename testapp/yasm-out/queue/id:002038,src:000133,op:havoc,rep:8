@@ -1,0 +1,9 @@
+mov eax, hi':mov?eax, ' "hi\"
+db "hi\n"hello'
+mov e[x, ''
+db 'hello'
+mov e[x, ''
+db 0,0,0
+db
+d" "hi\"
+db "hi\n"

@@ -1,0 +1,3 @@
+;timesb' db 0
+tåresb' db 0
+tåres 1;timesb' ds 1;timesb' db .2 db 0

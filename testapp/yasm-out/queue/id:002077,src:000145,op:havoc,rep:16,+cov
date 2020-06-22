@@ -1,0 +1,7 @@
+mov eax 'hi'
+mov eax
+dbD/0"9 'helloH
+mod eaH
+mov eax, ''
+db 0/0,0
+d!b "hi\n"

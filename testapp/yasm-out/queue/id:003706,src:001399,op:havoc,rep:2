@@ -1,0 +1,5 @@
+;times 8 times 44db 0
+times 'ab' db ?
+time8 times 44db 0
+times 'ab' db ?
+ts 1.2 db 0

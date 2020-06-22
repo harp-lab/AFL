@@ -1,0 +1,6 @@
+mov eax, ~~~~~~~~~~~~~~~~~~€~
+mov eax, 'h~ov b 0,ello'
+mov eax, '',0,0
+db 'hi"'
+db "hi\"
+db "hi\n"

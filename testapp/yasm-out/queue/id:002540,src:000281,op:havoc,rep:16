@@ -1,0 +1,8 @@
+mov*eaiiikiiii£eax, ''
+db 0BO,0
+dL'
+mov eax, ''
+db 0BS,0
+dL '
+dbb "hi"
+€b "hivn"

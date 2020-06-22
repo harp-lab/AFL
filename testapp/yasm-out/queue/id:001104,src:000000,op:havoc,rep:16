@@ -1,0 +1,6 @@
+mov+eax, 'Mi'
+mov ex, 'R0
+db 'h)"'
+db=
+db +hi"'
+db hi hi\n"

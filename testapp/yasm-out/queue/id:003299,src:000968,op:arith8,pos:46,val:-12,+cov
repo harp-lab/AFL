@@ -1,0 +1,5 @@
+mov eaxb 0,0,0
+db'h€"'ÿdb "mov eax,(' ''
+[b $:0,0
+db'hi"'ÿdn "7i\"
+db "hi|n"

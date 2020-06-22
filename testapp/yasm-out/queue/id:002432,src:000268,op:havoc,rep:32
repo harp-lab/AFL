@@ -1,0 +1,8 @@
+mgv(eiÚÚÚoˆ ³ax2 '''
+dT(eiÚÚÚÚoˆ ³ax2 '''
+dT
+ eax, 'hep'hei
+mov e 
+mov e*³ax2 '''
+dT
+dT 0F0 %db "hi\n"

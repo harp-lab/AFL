@@ -1,0 +1,11 @@
+movehi'
+mov(~ax, "
+'Zehe'
+movGeax 'we¸lo'
+mov eax, ''
+db 0,0,0
+db 'hiD'
+db "hi\>
+dbhi'
+mov(~ax, 'Zehe'
+movGeaxL 'wF"hi\n"

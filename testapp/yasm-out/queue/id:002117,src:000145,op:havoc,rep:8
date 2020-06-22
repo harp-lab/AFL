@@ -1,0 +1,4 @@
+mov eax, 'hf'
+mov eax, ------'hehe'mov eax, 'hdb 'hi"'
+db("hi\"
+db "hi\n"

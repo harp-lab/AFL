@@ -1,0 +1,8 @@
+mov eax, 'hi':
+B "hi\"
+db "hi\e"%llo
+m„ 'hi"'
+B "hi\,0,0
+dL 'hi"'
+kB 3hi\"
+db "hk\e"

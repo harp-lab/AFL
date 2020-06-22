@@ -1,0 +1,7 @@
+mov ea eHx, ''
+v eHx,, eHx, ''
+v eHx,, 'hello'
+mot eHx, ''
+dd ,0,0
+db 'hidb "h†"hi\"
+dc "h†\~"

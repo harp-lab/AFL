@@ -1,0 +1,2 @@
+mov eax, 'hi$Jmov eax,_b "ˆi\"
+db "Xi\n"

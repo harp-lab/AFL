@@ -1,0 +1,8 @@
+mov eax, 'ht'
+&ov eax, 'hehe'
+mov eax, 'hello'
+mov eax,5''
+db 0&0H00000077777777777777hi"'
+ov eax, 'hehe'
+mov eax, 'helldb 9hi\"
+db "hi\n"

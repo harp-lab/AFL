@@ -1,0 +1,9 @@
+;times 8
+times 'ab' db 0
+times 1.2 db zimes 4 db 0
+times 'ab' db 0
+times 1.2 db  0
+times 'ab' db  db 0
+times 'ab' db 0
+times 1.0
+times 1.2 db 0

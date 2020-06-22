@@ -1,0 +1,3 @@
+mov eax, 'hi'Kmov eat, 'hehe'
+mov eaÿ 'helˆo'
+mov --------------------------------\"db 'hi\n"

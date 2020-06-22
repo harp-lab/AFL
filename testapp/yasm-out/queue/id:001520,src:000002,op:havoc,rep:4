@@ -1,0 +1,5 @@
+;times 8 timetime 0
+times8 timetimes 'ab' dbs 'ab' db 0
+times8 timetimes 'ab' db 0
+timesb 0
+times 1s2 db 0

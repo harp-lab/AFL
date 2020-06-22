@@ -1,0 +1,4 @@
+mov eax,~~ 'hi'moÅ eax'hello'
+mov eax, ''
+db 0Bb "hi\"
+db@"hiWn"

@@ -1,0 +1,9 @@
+mov eah, 'hi'
+mov„'
+mov elÿ, '
+db 0,0,0
+db 'h‰"'
+
+dW 'h‰"'
+db "hi\"
+db "hi\n"

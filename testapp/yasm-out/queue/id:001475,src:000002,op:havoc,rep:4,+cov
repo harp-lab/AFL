@@ -1,0 +1,2 @@
+;times 8 times 4 db 0
+times 'Ob' db 0+time^ 1.2 db 0ú

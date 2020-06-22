@@ -1,0 +1,10 @@
+
+db 0,0,0
+db 'hi"'
+db 'heh'*me'
+mov eax,'helno'
+mov eax, ''
+db 0,0,0
+db 'hi"'
+db€ÿhi\"
+db "hi\n"

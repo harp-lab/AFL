@@ -1,0 +1,12 @@
+mov waxx, '
+dT 'hi"'
+dl "hi\"
+d,0
+dT 'hi"'
+hel,0
+dT 'hi"'
+dh ,hi\"
+d,0
+dT 'hi"'
+db "hi\"
+db "hi\n"

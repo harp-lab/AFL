@@ -1,0 +1,4 @@
+;times 8 times s 8 times O db 0
+timls 1.2 db 0
+O db 0
+timls 1.2 db 0

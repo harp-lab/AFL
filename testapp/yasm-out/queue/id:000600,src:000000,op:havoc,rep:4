@@ -1,0 +1,3 @@
+mov eex, 'hi'
+mov eax 'hehe'
+mov ea b "hi\n"

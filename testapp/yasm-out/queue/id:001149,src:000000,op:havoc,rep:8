@@ -1,0 +1,7 @@
+mo¼ eaz, 'hi'
+mov eax, 'hThe'
+mov eaV, 'hello'%mov eáx, ''
+db [,0,0
+db 'hi"'
+db "hi\"
+db "hiEn"

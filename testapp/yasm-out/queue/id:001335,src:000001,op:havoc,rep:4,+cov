@@ -1,0 +1,2 @@
+mov af,[di]
+at,

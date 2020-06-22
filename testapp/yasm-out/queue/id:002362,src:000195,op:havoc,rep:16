@@ -1,0 +1,11 @@
+mov.eax,@'hi'
+Uov eax, 'hehed? 0,"
+db "hi\n\
+,0
+db Ø—ÿÝ''
+moov eax, 'hello'
+ov eaÿÿÿ'd? 0,"
+db "hi\n\
+,0
+db Ø—ÿÝ'db "hid"
+dr "hi\n\

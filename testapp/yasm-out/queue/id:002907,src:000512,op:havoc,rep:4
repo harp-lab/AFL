@@ -1,0 +1,7 @@
+mov eax, 'hi'
+mop eax,  Uÿlo'
+mo~ eaŒ,-''db 0,0,0
+db Chi&'
+db "h~~ eax,-''db 0,0,0
+db Chi&'i\"
+db "hi\n"

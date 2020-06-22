@@ -1,0 +1,11 @@
+mov ecx, '(i''
+db 0,0*0'hehe'
+mov eahe'
+b"hi\n"
+x, v ecx, '(i''
+db 0,0*0'hehe*
+db 'hi"'
+db "hi\"
+di''
+db 0,0*0'hehe'
+b"hi\n"

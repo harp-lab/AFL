@@ -1,0 +1,6 @@
+mov eax, 'hi'
+mov eax 'hehe'
+mov eax,  Q/ "S'hello'
+mov eax,'''
+db Q/ "hi\"
+db@"hi\["

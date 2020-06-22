@@ -1,0 +1,5 @@
+me}x, ''
+db x,'
+mov g0,0,0
+b'b "hi\
+db "hi\n"

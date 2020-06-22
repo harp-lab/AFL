@@ -1,0 +1,9 @@
+€ax, 'hehe'
+mov eax, 'hello'
+mov eax, ''
+db 0,0,0
+db 'hiÿ'
+db "hZ\"00000000000000000ov eax, ''
+db 0,0,0
+db 'hiÿ'
+db 000db "hi\n"

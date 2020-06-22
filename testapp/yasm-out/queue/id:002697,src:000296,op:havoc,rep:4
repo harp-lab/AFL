@@ -1,0 +1,11 @@
+mov eax, 'hi'
+movlo'
+mo'
+db 0,0D0
+dT 'hihello'
+mo'
+db 0,0,0
+dT 'lo'
+mo'
+db 0,0D0
+dT 'h"

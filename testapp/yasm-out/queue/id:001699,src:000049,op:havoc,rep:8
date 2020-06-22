@@ -1,0 +1,6 @@
+mov eax, 'h{'
+mov((((3 '@ehe'
+mov eax, 'hello'^mov eax, ''
+pP 0b 'hi"'
+db "hi\"
+db "hi\n"

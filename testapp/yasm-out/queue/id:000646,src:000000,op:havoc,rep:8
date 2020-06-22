@@ -1,0 +1,5 @@
+mov'hehe'
+mov eax, 'hello'
+ÿÿÿeax, ''
+db 0ehe'
+mov eax, db "LiP"@db "hi\n"'

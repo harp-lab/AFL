@@ -1,0 +1,7 @@
+mêv eax, 'hi'
+mov(eax- ;hehe'
+mov mêv eax, 'hi'
+mov(eax- ;heaxmov mêv eax, 'hi'
+ '&
+db 0,0,0
+db 'h"hi\n"

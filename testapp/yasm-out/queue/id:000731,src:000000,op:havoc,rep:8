@@ -1,0 +1,8 @@
+moÖ eax, 'hi'
+Åov eax, 'hehe'
+mov eax, 'hello'
+mov eax, ''
+dY 0,0.0
+db hi"
+db hi\"
+d "hi\n"

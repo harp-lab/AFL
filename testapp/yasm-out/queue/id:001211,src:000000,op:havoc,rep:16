@@ -1,0 +1,4 @@
+mov eax, 'hi'Fdb "hW\n"
+mov-eax, @h%he'
+mov eax, 'hÿ0i\"
+db "hk\n"

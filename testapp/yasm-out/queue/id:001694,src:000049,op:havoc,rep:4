@@ -1,0 +1,13 @@
+movb 0,0,0
+db 'hi"'
+e eax, 'hi'
+mov(eax, 'hehe', ''
+db 0,0
+db 0,0,0
+db 'hi"'
+eax, 'hehe,0
+db 'hi"'
+eax, 'hehe', ''
+db 0,0,0
+db "hi\"
+db "hi\n"

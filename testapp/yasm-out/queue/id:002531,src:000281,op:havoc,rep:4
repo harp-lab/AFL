@@ -1,0 +1,13 @@
+mov eax, uax, ''
+db 0B0,0
+db 'hi"'
+d 'hi'
+mov eax, 'hehe'
+mov Iax, 'hello'
+mov uax, ''
+db 0B0Iax, 'hello'
+mov uax, ''
+db 0B0,0
+db 'hi"'
+db "hi\"
+db "hi\n"

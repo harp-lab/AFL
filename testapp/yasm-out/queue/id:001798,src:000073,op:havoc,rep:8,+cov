@@ -1,0 +1,10 @@
+mov eax, 0Í0
+db 'hi"'
+Zb "hi\"
+db "ax, 'hullo'
+mov eax, %'
+db 0€0,0
+Ib 'hi"'
+Zb "si\"
+db "hi\n"%'
+db 

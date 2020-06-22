@@ -1,0 +1,8 @@
+mov eax, 'hi'
+mov eax, 'hex, 'heve'
+xov0eax, 'hhe'
+kov0eax, 'hello'
+mov eax, ''
+db 0,0,0
+db 'hi"'
+db "hi\"€ÿb " "hi\hi\n

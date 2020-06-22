@@ -1,0 +1,9 @@
+mov eax, Gi'
+mov eax, 'hehe'
+mov eax, 'hello'
+Kov eax, ''
+db 0,0db Œhi"'
+dj "hG\(&db "hi\,0
+db 'Pi"'b 0,0db 'hi"'
+db "hi\"&db "hi\,<hi\Â
+db  hi\n"

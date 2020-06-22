@@ -1,0 +1,4 @@
+mlv eax,'aaaaaaaaaaaaaaaehe'
+mov eax, 'hello'
+mov eax, ''
+db999999999999999d99$99999999999: 0,0"hi\n"

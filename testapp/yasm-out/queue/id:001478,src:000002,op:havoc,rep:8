@@ -1,0 +1,4 @@
+;times 8ÿÿÿÿb 0
+times 'ab'%db  
+time 1.2 es 4 db 0
+times 'ab'%db ÂÂÂÂÂÂÂÂÂÂ2 dbü/

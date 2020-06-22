@@ -1,0 +1,4 @@
+;times 8 imes 4 db 0
+times 'ab' |b times 4 db 0
+times 'ab' |b0
+timesovh2 db 0

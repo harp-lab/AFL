@@ -1,0 +1,8 @@
+0xov m`v eax, 'hi'
+ax, '6
+db d,0xov eax, 'hello'
+mov eax, '4
+diiiiiiiiiiiiiÿÿÿ0,
+lb 'hi"'
+db eax, 'hello"hi\"
+db "hi\n"

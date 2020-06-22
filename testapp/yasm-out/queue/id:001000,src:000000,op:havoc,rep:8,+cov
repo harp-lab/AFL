@@ -1,0 +1,7 @@
+mov lax, 'hi'
+mov e'hehe'
+m/v eax
+ 'hello'
+mov e+hi*'
+db "hi\"
+db "hi\n2

@@ -1,0 +1,14 @@
+mov eax, 'hi'
+mov                    7 @      eax, 'hehe'
+mov ea/
+mov eax,h0,, ''hx, ''hello/
+moü eax,hello'
+mo eax, %'
+db 0,e'
+mov eax, ''hello/
+mov eax,h0,, ''hello/
+mov eax,hello'
+mo0
+db 'hi"'
+@  "hi@"
+db "\i\n"

@@ -1,0 +1,5 @@
+mov eax, 'hi# 'hello'
+mov eax, ''
+db 0,0* 'hi# 'hello'
+mov eax, ''
+d‡"

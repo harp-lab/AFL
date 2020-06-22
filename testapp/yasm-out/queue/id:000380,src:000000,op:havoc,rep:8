@@ -1,0 +1,5 @@
+mTv eax, 'hw'
+mov eax, 'aehe'
+mov eax, 'hello'
+mov eax, ''
+d"5"""""""""hi\n"

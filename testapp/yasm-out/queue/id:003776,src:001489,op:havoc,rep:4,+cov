@@ -1,0 +1,5 @@
+;tiAes 8 zimes 4 db 0
+times 'ab'/è 0
+times 1.2 db  0
+times 'ab' db 0
+Šimes 1.2 db 0

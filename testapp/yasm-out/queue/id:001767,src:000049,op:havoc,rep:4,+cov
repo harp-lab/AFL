@@ -1,0 +1,5 @@
+mov eax, 'hi'
+mov(eax                     :, 'hehe'*mov eax, 'h,0
+db 'hi"'
+db "hi\"
+db "hi\n"

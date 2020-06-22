@@ -1,0 +1,3 @@
+;times 8 tim~ov b 0,'a…' db 0
+tmidb 0
+tmies 1.E db 01.E $es 1.E db 01.E db 0

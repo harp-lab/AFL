@@ -1,0 +1,7 @@
+;times 8 zimes 4 db 0
+ties 1.2 db  0
+times 'ab' db 0××××××××××××××××××××××××
+times 'ab' db 0
+times 1.2 db  0
+times 'ab' db 0
+times 1.2 db 0

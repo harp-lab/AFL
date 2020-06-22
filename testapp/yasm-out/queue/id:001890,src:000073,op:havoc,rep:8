@@ -1,0 +1,7 @@
+mov eax,ov eax,'li'
+mov eac, ''
+mov eax, %'
+db A,X,0
+b "heax, %'
+db A,X,0
+b "hi\n"

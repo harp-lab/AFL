@@ -1,0 +1,5 @@
+;8 t 4 db 0
+times 'abimestimes 8 t 4 db 
+times 'abimes 4 db 
+times 'ab' db$0
+ties 1.2 b 0

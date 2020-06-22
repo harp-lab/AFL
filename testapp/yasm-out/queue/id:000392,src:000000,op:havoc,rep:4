@@ -1,0 +1,6 @@
+mov eax, 'Ti'
+mov eKx, 'hehe'
+mov eax, 'hello'
+mov Åax, ''
+db 0,0,0hi\"
+db "hi\n"

@@ -1,0 +1,8 @@
+mhi'
+mov eix, 'hehe'
+mov eax,db 0.0,0
+db 'hi"'
+db "hi\"
+dbhiehe'
+mov eax,db 0.0,0
+db 4n\n"

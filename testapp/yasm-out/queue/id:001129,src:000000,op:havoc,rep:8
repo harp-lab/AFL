@@ -1,0 +1,7 @@
+0000000000 0ÿ€00000x, 'hehe'
+mov ean, 'hellm'
+mjv eax, '
+db 0,0,0
+db 'hi"'
+db "hi\"
+db "hi\n"

@@ -1,0 +1,8 @@
+mov eax, hi, 'he,0
+db 'hi"'x, %
+a~, 'he,0
+db 'hi"'x, %
+db 0,0,0
+db 'hi"'
+db "hi\"
+db "hi\nÿ

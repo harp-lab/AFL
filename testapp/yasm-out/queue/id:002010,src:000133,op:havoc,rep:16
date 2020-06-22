@@ -1,0 +1,5 @@
+mov ~~x, x, 'heoe'
+~ÿ~~~~~~~~~~~~~~z~~~~~~~~~~~mov eçx, 'hello'
+mov eax,'hi"'
+ÿ "hiwwwwwwwwwwwwwwwwwwwwwwwwwwwww\"
+db "hi\n"

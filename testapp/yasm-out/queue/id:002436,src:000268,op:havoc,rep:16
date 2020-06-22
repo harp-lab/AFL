@@ -1,0 +1,4 @@
+mov eax,/'si'
+mod
+dT 0,$,0
+db0000000he000 $00db "hi\n"

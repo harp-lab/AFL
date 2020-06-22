@@ -1,0 +1,6 @@
+mov uax, 'hi'
+mmv eax, 'hehe'
+mov eax, 'hello'
+mov eax, $&êdb`0,0,0__b 'hi"'
+db "hi\%
+db "hO\n"

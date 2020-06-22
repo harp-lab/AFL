@@ -1,0 +1,10 @@
+m,0
+i'
+db "hi\hi\"
+db "h'
+mov("
+db "h'
+mov(emov(eax,"'hGhe'
+meax, ''
+dbv(eax,""ddb "h'
+mov(eax,"'hi\n"

@@ -1,0 +1,10 @@
+mov eax, 'hi':mov eax 'hehe'
+mov eax, 'hee
+mov eax, 'hello'
+mov ea, 'hehe' eax, 'hello'
+mov e
+mov eax, 'hello'
+mov eax, ''
+db 0,e
+mov eax, 'hello'
+mov eax, ''"

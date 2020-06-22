@@ -1,0 +1,15 @@
+movhello'
+mov eax, ,%8
+db 0,0,0
+db 'hi"'
+db heax,%%%%%%%%%%%%%%%%	%%%%%%% 'Hehe'
+mov ello'
+mov  'Hehe'
+mov ello'
+meax, %'
+db 0,0,0
+db Hhi"'
+db "hi\"'Hehe'
+mov eb "hix, %'
+db 0,0,0
+db \n"

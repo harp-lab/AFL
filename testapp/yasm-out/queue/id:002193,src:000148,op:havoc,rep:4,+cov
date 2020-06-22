@@ -1,0 +1,6 @@
+mov!eax,ax, 'hello'
+mov eax, ''
+db 0,0*0
+db 'hi"'
+Jb "hi\"
+db "hi\n"

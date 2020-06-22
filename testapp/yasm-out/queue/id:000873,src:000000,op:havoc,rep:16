@@ -1,0 +1,10 @@
+mov ex,  e!p, €hello'
+'hello
+mov eax xA 'gehe'
+movÿÿ!p> 'hell€'
+'hello
+mov eax, ''
+db 0,0’0
+db"'hi"'
+db "hi\"
+db "hi\n)

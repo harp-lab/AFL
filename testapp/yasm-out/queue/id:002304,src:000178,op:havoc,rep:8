@@ -1,0 +1,18 @@
+mov eax, ÿÿÿ
+mov eax, 'hehe'
+mov50:?
+dbhello'
+moov50,?
+dbhello'
+mov eav eax, ''
+db 0llo'
+moov50,?
+dbhello'
+mov eav eax, ''
+db 0llo'
+
+moov eav eax, ''
+,0,?
+db 'hi"'
+db "hi\"
+db "hi\n"

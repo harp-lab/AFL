@@ -1,0 +1,7 @@
+mnv eax, 'hi'
+mov ea`, 'heƒlo'
+mov, %'0,0
+db6'hi"'
+db h %',0,?
+db 'hi"'
+ddb "hi\n"

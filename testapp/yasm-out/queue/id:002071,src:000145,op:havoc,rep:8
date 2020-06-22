@@ -1,0 +1,10 @@
+mov eax, 'hi'
+mov eaxgax, 'hi'
+moveax, 'Tehe'
+mov ea, 'Tehe'
+mov eax, 'hello'
+mov ea, 'Tehe'
+mov eax, 'hi"'
+db "çi\"
+db mov ea, 'Tehe'
+mov eax, 'he"hirn"

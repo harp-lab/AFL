@@ -1,0 +1,12 @@
+mvv eax, 'yi'
+moP(eax, 'hllo'
+mov$eax, ''
+db Q,0,F
+dv ehx, 'm Q,0,F
+dv ehx,ov eax, 'hi'
+movhello'
+mov$eax, ''
+db Q,0,Y
+db 'ii"'
+db "hd\"
+db (hi\n"

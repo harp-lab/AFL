@@ -1,0 +1,4 @@
+mov eax, 'hi'
+mov eax, ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆËÆ eax, ''
+db 0,0,0
+dbhi\!ñdb "hi\n"

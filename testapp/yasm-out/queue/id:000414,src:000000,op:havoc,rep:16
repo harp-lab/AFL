@@ -1,0 +1,8 @@
+mN6 eax, 'hi
+mov aš, 'hehe'
+mov enxN 'hello'
+mov eax, 0,;,0
+d"
+d ,0
+db 'hi"'
+db "b "hi\n"

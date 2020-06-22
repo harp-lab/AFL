@@ -1,0 +1,6 @@
+mov eax, 'hi'
+mov eax, 'he, ''
+db 0,0,0
+d'
+mov eax, 'he, ''
+db 0,0,

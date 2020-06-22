@@ -1,0 +1,12 @@
+0Bmmov eax, , ''
+db 0B0,0
+ve''
+db 0B0,0
+veax, ''
+
+db eax, 'hello'
+mov eax, '
+db 0B0,0
+db 'hi"'
+db "hi\"
+dM "hi\n"

@@ -1,0 +1,7 @@
+mov eax, 'hi'
+mo ''
+dT 0,0,0
+dd3'hi/
+dd3'hi"'
+dX "hi\"
+db$"hi\n"

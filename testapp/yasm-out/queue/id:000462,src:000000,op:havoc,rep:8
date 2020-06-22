@@ -1,0 +1,7 @@
+mov e                   
+       db 0,0,0
+db 2hi"'
+ eax 0,0,0
+db 2hax, 'hehe'
+movdb "hi\"
+db "hi\n"

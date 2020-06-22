@@ -1,0 +1,7 @@
+mov eax, 'hi':''
+db 0B0+0
+db 'X:ﬂax, 'hov eax, 'hello'he'
+m eax:ea[, 'h 'hÅllo'
+mov eaeax, ''
+db 0B0,0
+db 'x1eax, 'h 'hello'"ài\n"

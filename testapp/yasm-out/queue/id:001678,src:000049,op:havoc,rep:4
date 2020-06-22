@@ -1,0 +1,9 @@
+mov , 'hi'
+mov(, mov eax, 'Rov eax, 'hi'
+mov(, mov eax, 'Rello'
+mov eax, ''
+db  ''
+db 0,0,0
+db 'hi"'
+db "hi\"
+db "hi\n"
